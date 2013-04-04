@@ -1,0 +1,7 @@
+Este diretório contém perfis de impressão para a impressora 3D Metamáquina 2 utilizando o fatiador skeinforge.
+
+Para utilizar, faça um backup do seu diretório .skeinforge (que fica salvo no seu homedir, algo como /home/felipe/.skeinforge) e depois copie todo o conteũdo deste diretório para lá.
+
+Outra forma de fazer isso é criando um link simbólico (atalho) chamado /home/nomedousuario/.skeinforge que aponte para este diretório. Por exemplo:
+
+ln -s /home/meu_nome_de_usuario/devel/perfis_de_impressao/ponto_skeinforge /home/meu_nome_de_usuario/.skeinforge
