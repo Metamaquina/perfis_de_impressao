@@ -5,3 +5,5 @@ Para utilizar, faça um backup do seu diretório .skeinforge (que fica salvo no 
 Outra forma de fazer isso é criando um link simbólico (atalho) chamado /home/nomedousuario/.skeinforge que aponte para este diretório. Por exemplo:
 
 ln -s /home/meu_nome_de_usuario/devel/perfis_de_impressao/ponto_skeinforge /home/meu_nome_de_usuario/.skeinforge
+
+Depois abra o Pronterface e clique em Settings->Slicing_Settings (Configurações->Fatiamento) e na janela de configuração do fatiador escolha qual perfil prefere utilizar no menu Profile Selection.
