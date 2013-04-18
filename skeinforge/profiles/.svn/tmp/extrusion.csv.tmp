@@ -1,0 +1,8 @@
+Format is tab separated extrusion settings.
+_Name                          	Value
+WindowPosition	0+400
+<<<<<<< .mine
+Profile Selection:	MM_PLA_70_0.25
+=======
+Profile Selection:	MM_ABS_70_0.25_Mario_Laranja
+>>>>>>> .r756

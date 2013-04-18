@@ -1,0 +1,14 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+<<<<<<< .mine
+WindowPosition	341+99
+Open File for Skeinforge	/Users/josefprusa/Dropbox/RepRap/Parts/PrusaMendel/printable-bushing.stl
+=======
+WindowPosition	360+104
+Open File for Skeinforge	
+>>>>>>> .r756
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

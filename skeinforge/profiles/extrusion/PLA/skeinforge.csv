@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	402+19
+Open File for Skeinforge	C:/Users/Hackatron2/Documents/My Dropbox/RepRap/Parts/PrusaMendel/bearing-guide.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

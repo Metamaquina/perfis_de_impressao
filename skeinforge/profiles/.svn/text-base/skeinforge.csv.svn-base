@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	607+22
+Open File for Skeinforge	/Users/josefprusa/Downloads/Trimensional_simple.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

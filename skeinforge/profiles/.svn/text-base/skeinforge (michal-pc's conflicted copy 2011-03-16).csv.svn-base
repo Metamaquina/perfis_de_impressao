@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	366+57
+Open File for Skeinforge	D:/Documents and Settings/Hackatron 3/Dokumenty/My Dropbox/RepRap/MichalPrusasMendel/FrameVertex_footed.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
